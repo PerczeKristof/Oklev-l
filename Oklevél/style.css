@@ -1,0 +1,38 @@
+body {
+    background-color: lightgrey;
+    }
+    
+    h1 {
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 300%;
+    
+    
+    }
+    
+    p {
+    font-size: 200%;
+    }
+    
+    strong {
+    font-size: larger;
+    color: red;
+    }
+    
+    div {
+    border: solid;
+    padding: 12%;
+    border-image-source:url(Cartoon.jfif);
+    box-shadow:20px 20px 25px black;
+    }
+    
+    #belso{
+    background-color: lightgoldenrodyellow;
+    width: 60%;
+    height: 10cm;
+    text-align: center;
+    margin: auto;
+    border-image: url(Cartoon.jfif);
+    border-image-slice: 30%;
+    border-image-width: 10%;
+    }
